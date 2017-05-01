@@ -2,6 +2,7 @@
 
 
 start with
+
 0. git clone
 1. npm install
 2. nodemon
@@ -15,8 +16,9 @@ GRUD 및 로그인 기능이 기본적으로 게시판 형태로 들어가 있�
 
 ***
 
-### 'Password 암호화'
-### '로그인 및 회원가입, 메모 작성 시 공란 체크'
-### '이메일 정규표현식으로 검증하기'
-### '작성한 메모 편집 기능'
-### 'Google Keep 방식의 Dropdown식 메뉴'
+### Password 암호화
+### 로그인 및 회원가입, 메모 작성 시 공란 체크
+### 이메일 정규표현식으로 검증하기
+### 작성한 메모 편집 기능
+### Google Keep 방식의 Dropdown식 메뉴
+### Post 에러 처리
