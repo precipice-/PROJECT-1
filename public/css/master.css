@@ -14,11 +14,26 @@
  font-size: 12px;
 }
 
-
+.ellipsis{ /* 1 */
+ display: block;
+ width: 100%;
+ white-space: nowrap;
+ overflow: hidden;
+ text-overflow: ellipsis;
+}
 /* post style */
 .post h2 {
  color: tomato;
  text-align: center;
+}
+.post-index .posts{
+ border-top: 1px solid #ccc;
+ border-bottom: 1px solid #ccc;
+ table-layout: fixed; /* 2 */
+}
+.post .posts .author{ /* 3 */
+ text-align: center;
+ width: 80px;
 }
 .post .post-body{
  white-space: pre-line; /* 1 */
