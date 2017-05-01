@@ -1,12 +1,17 @@
 # 2017-1 HYU OpenSource Project - Memo Web Application
 
 
-start with nodemon
+start with
+0. git clone
+1. npm install
+2. nodemon
+3. open your browser and type localhost:3000
 
 reference: http://a-mean-blog.herokuapp.com/ko/blog/MEAN/MEN-%EA%B2%8C%EC%8B%9C%ED%8C%90/%EA%B2%8C%EC%8B%9C%ED%8C%90-User-Error-%EC%B2%98%EB%A6%AC
 
 어.. 그러니까..
-GRUD 및 로그인 기능이 기본적으로 Board 형식으로 들어가 있고, 그 외에
+node_modules 폴더는 git rm -r --cached 명령어로 제거하였습니다.
+GRUD 및 로그인 기능이 기본적으로 게시판 형태로 들어가 있고, 그 외에
 
 ***
 
